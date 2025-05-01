@@ -1,0 +1,9 @@
+ultralytics==8.0.100
+opencv-python
+flask
+flask-cors
+numpy
+matplotlib
+Pillow
+torch
+scikit-learn
